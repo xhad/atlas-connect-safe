@@ -1,3 +1,5 @@
+# This version was created to patch security problems.
+
 # atlassian-connect-express: Node.js package for Express.js based Atlassian Add-ons
 
 ![build status](https://bitbucket-badges.atlassian.io/badge/atlassian/atlassian-connect-express.svg)
