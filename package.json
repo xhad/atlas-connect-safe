@@ -1,6 +1,6 @@
 {
   "name": "atlas-connect-safe",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "description": "Library for building Atlassian Add-ons on top of Express",
   "author": "Atlassian",
   "license": "Apache-2.0",
